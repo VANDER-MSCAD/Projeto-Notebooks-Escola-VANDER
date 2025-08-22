@@ -19,7 +19,7 @@ A solução proposta é a substituição desses desktops por notebooks, equipame
 
 ---
 
-## 2. Introdução e Justificativa
+## 2. Justificativa e Introdução
 
 Os computadores atuais apresentam elevado consumo de energia, lentidão e falhas em tarefas básicas. A modernização é essencial para garantir rapidez, mobilidade e compatibilidade com softwares e páginas da web cada vez mais complexas.
 
