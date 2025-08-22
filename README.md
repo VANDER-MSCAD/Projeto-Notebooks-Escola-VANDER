@@ -4,14 +4,14 @@
 
 Universidade Aberta do Brasil – Novo Pabussu
 
-## Interessado:
+## Interessedo
 
 * UECE (Universidade Estadual do Ceará)
 * Secretaria da Ciência, Tecnologia e Ensino Superior (SECITECE) do Governo do Ceará
 
 ---
 
-## 1. Resumo Executivo
+## 1 - Resumo Executivo
 
 Os computadores da UAB apresentam lentidão e erros ao processar tarefas devido à idade avançada e baixa performance. Atualmente, a configuração utilizada é um Desktop com Windows 7, processador dual-core, 8 GB de RAM, HD de 500 GB, monitor de 14’, sem placa de vídeo dedicada e fonte de 350 W.
 
@@ -19,7 +19,7 @@ A solução proposta é a substituição desses desktops por notebooks, equipame
 
 ---
 
-## 2. Introdução e Justificativa
+## 2 - Justificativa
 
 Os computadores atuais apresentam elevado consumo de energia, lentidão e falhas em tarefas básicas. A modernização é essencial para garantir rapidez, mobilidade e compatibilidade com softwares e páginas da web cada vez mais complexas.
 
@@ -27,7 +27,7 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 
 ---
 
-## 3. Objetivos
+## 3 - Objetivos
 
 * Promover **mobilidade e flexibilidade** no uso dos recursos computacionais.
 * Facilitar **coleta de dados, trabalho criativo e colaboração em equipe**.
@@ -36,7 +36,7 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 
 ---
 
-## 4. Especificações Técnicas dos Notebooks
+## 4 - Especificações Técnicas dos Notebooks
 
 **Configuração Proposta:**
 
@@ -66,24 +66,24 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 
 ---
 
-## 5. Orçamento Estimado
+## 5 - Orçamento Estimado
 
-| Item | Produto / Serviço                                          | Qtde | Valor Unitário | Valor Total    |
+| Item | Produto / Serviço                                          | Qtde | Valor Unit R$ | Valor Total R$   |
 | ---- | ---------------------------------------------------------- | ---- | -------------- | -------------- |
-| 1    | Notebooks Lenovo (configuração recomendada)                | 30   | R\$ 5.600,00   | R\$ 168.000,00 |
-| 1.1  | 2 anos de Roubo e Furto + Quebra Acidental                 | 30   | R\$ 1.431,79   | R\$ 42.953,77  |
-| 1.2  | 3 anos de Garantia Estendida                               | 30   | R\$ 1.640,53   | R\$ 49.215,98  |
-| 1.3  | Sistema de Rastreamento (Plano Prey – licença/dispositivo) | 30   | R\$ 330,00     | R\$ 9.900,00   |
-| 1.4  | Licenças de Software (Pacote Educacional)                  | 30   | R\$ 0,00       | R\$ 0,00       |
-| 1.5  | Instalação e Configuração Inicial                          | 30   | R\$ 99,90      | R\$ 2.997,00   |
-| 2    | Roteador Mercusys AC1200 1200 Mbps - 4 Antenas 4 Portas    | 30   | R\$ 204,99     | R\$ 6.149,70   |
-| 3    | Bolsas/Cases de Proteção para Notebook                     | 30   | R\$ 36,00      | R\$ 1.080,00   |
+| 1    | Notebooks Lenovo (configuração recomendada)                | 30   |  5.600,00   | 168.000,00 |
+| 1.1  | 2 anos de Roubo e Furto + Quebra Acidental                 | 30   |  1.431,79   |  42.953,77  |
+| 1.2  | 3 anos de Garantia Estendida                               | 30   |  1.640,53   |  49.215,98  |
+| 1.3  | Sistema de Rastreamento (Plano Prey – licença/dispositivo) | 30   |  330,00     |  9.900,00   |
+| 1.4  | Licenças de Software (Pacote Educacional)                  | 30   |  0,00       |  0,00       |
+| 1.5  | Instalação e Configuração Inicial                          | 30   |  99,90      |  2.997,00   |
+| 2    | Roteador Mercusys AC1200 1200 Mbps - 4 Antenas 4 Portas    | 30   |  204,99     |  6.149,70   |
+| 3    | Bolsas/Cases de Proteção para Notebook                     | 30   |   36,00      |  1.080,00   |
 
-**Total Estimado:** R\$ 280.296,45
+**Total Estimado:** 280.296,45
 
 ---
 
-## 6. Cronograma (Simplificado)
+## 6 - Cronograma
 
 | Etapa        | Descrição                                                             | Prazo Estimado |
 | ------------ | --------------------------------------------------------------------- | -------------- |
@@ -94,6 +94,6 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 
 ---
 
-## 7. Considerações Finais
+## 7 - Considerações Finais
 
 A modernização tecnológica da instituição, por meio da aquisição dos notebooks, representa um passo fundamental para garantir qualidade, agilidade e segurança nas atividades acadêmicas. Os novos equipamentos trarão maior durabilidade, eficiência energética e flexibilidade de uso, reforçando a escolha dos notebooks como a solução ideal para atender às demandas atuais e futuras da escola.
