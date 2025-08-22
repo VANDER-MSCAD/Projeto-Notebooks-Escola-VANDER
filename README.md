@@ -4,7 +4,7 @@
 
 Universidade Aberta do Brasil – Novo Pabussu
 
-## Interessadas:
+## Interessado:
 
 * UECE (Universidade Estadual do Ceará)
 * Secretaria da Ciência, Tecnologia e Ensino Superior (SECITECE) do Governo do Ceará
