@@ -1,10 +1,10 @@
 # Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola
 
-## Unidade
+## Unidade: 
 
 Universidade Aberta do Brasil – Novo Pabussu
 
-## Interessadas
+## Interessadas:
 
 * UECE (Universidade Estadual do Ceará)
 * Secretaria da Ciência, Tecnologia e Ensino Superior (SECITECE) do Governo do Ceará
@@ -99,17 +99,5 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 A modernização tecnológica da instituição, por meio da aquisição dos notebooks, representa um passo fundamental para garantir qualidade, agilidade e segurança nas atividades acadêmicas. Os novos equipamentos trarão maior durabilidade, eficiência energética e flexibilidade de uso, reforçando a escolha dos notebooks como a solução ideal para atender às demandas atuais e futuras da escola.
 
 ---
-
-📌 **Formato de Entrega e Hospedagem**
-
-* A atividade é **individual**.
-* Criar conta no **GitHub** (se necessário).
-* Criar repositório público: `Projeto-Notebooks-Escola-[SeuNome]`.
-* Subir este conteúdo como arquivo **README.md**.
-* Caso use imagens, salvar em `/img` e referenciar no texto.
-* Entregar o **link do repositório público**.
-
----
-
 👉 Vander, esse README já está pronto para você copiar e colar no GitHub.
 Quer que eu também monte a **estrutura de pastas e arquivos** (exemplo com `/img` e README.md) para você só fazer upload, ou prefere só trabalhar direto no README.md?
