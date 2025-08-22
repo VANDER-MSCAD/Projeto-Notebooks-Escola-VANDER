@@ -19,7 +19,7 @@ A solução proposta é a substituição desses desktops por notebooks, equipame
 
 ---
 
-## 2. Justificativa e Introdução
+## 2. Introdução e Justificativa
 
 Os computadores atuais apresentam elevado consumo de energia, lentidão e falhas em tarefas básicas. A modernização é essencial para garantir rapidez, mobilidade e compatibilidade com softwares e páginas da web cada vez mais complexas.
 
@@ -61,7 +61,7 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 | Tela                | 16” / 60Hz                   | 16” / 60Hz             |
 | Bateria             | 4 células, 71Wh              | 4 células, 71Wh        |
 
-🔗 Produto similar: [Notebook Lenovo ThinkBook 16 G6 - Magalu](https://www.magazineluiza.com.br/notebook-lenovo-thinkbook-16-g6-intel-core-i5-13420h-16gb-512gb-ssd-windows-11-21nr000cbr-arctic-grey/p/egc5h8j2c9/in/leip/)
+🔗 Produto similar: [Notebook Lenovo ThinkBook 16 G6](https://www.magazineluiza.com.br/notebook-lenovo-thinkbook-16-g6-intel-core-i5-13420h-16gb-512gb-ssd-windows-11-21nr000cbr-arctic-grey/p/egc5h8j2c9/in/leip/)
 🔗 [Fabricante - Lenovo](https://www.lenovo.com/br/pt/p/laptops/thinkbook/xxtbxtmi410/21nq000abr)
 
 ---
@@ -97,7 +97,3 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 ## 7. Considerações Finais
 
 A modernização tecnológica da instituição, por meio da aquisição dos notebooks, representa um passo fundamental para garantir qualidade, agilidade e segurança nas atividades acadêmicas. Os novos equipamentos trarão maior durabilidade, eficiência energética e flexibilidade de uso, reforçando a escolha dos notebooks como a solução ideal para atender às demandas atuais e futuras da escola.
-
----
-👉 Vander, esse README já está pronto para você copiar e colar no GitHub.
-Quer que eu também monte a **estrutura de pastas e arquivos** (exemplo com `/img` e README.md) para você só fazer upload, ou prefere só trabalhar direto no README.md?
