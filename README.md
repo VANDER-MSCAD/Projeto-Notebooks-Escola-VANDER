@@ -83,7 +83,12 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 
 ---
 
-## 6 - Cronograma
+## 6.	Benefícios Esperados
+Além de promover todas as informações já citadas anteriormente coma mobilidade, flexibilidade, coleta de dados, trabalho criativo, colaboração em equipe, economia de energia, gostaria de ressaltar que com a aquisição desse produto e seus demais itens de compra, no caso garantias, contra furto, roubo, quedas e rastreamento teremos produto ultima linha com uma durabilidade excelente sem mencionar no espaço fisico que ganharemos devido a mobilidade.
+
+---
+
+## 7 - Cronograma
 
 | Etapa        | Descrição                                                             | Prazo Estimado |
 | ------------ | --------------------------------------------------------------------- | -------------- |
@@ -94,6 +99,6 @@ A adoção de notebooks trará flexibilidade no uso em diferentes ambientes da e
 
 ---
 
-## 7 - Considerações Finais
+## 8 - Considerações Finais
 
 A modernização tecnológica da instituição, por meio da aquisição dos notebooks, representa um passo fundamental para garantir qualidade, agilidade e segurança nas atividades acadêmicas. Os novos equipamentos trarão maior durabilidade, eficiência energética e flexibilidade de uso, reforçando a escolha dos notebooks como a solução ideal para atender às demandas atuais e futuras da escola.
